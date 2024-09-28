@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wlyholdeo.github.io/sitemap.wlyholdeo.gz
+Sitemap: https://wlyholdeo.github.io/app/sitemap.wlyholdeo.gz
+Sitemap: https://wlyholdeo.github.io/assets/sitemap.wlyholdeo.gz
+Sitemap: https://wlyholdeo.github.io/css/sitemap.wlyholdeo.gz
+Sitemap: https://wlyholdeo.github.io/data/sitemap.wlyholdeo.gz
+Sitemap: https://wlyholdeo.github.io/includes/sitemap.wlyholdeo.gz
+Sitemap: https://wlyholdeo.github.io/item/sitemap.wlyholdeo.gz
+Sitemap: https://wlyholdeo.github.io/src/sitemap.wlyholdeo.gz
